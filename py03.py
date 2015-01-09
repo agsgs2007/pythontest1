@@ -21,3 +21,5 @@ def is_susu(n):
     return True
 
 print filter(is_susu, range(1,101))
+
+print "hello world"
